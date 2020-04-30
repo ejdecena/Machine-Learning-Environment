@@ -2,6 +2,7 @@
 ### Machine Learning Requirements -----
 pip install -U pip
 pip install -U matplotlib
+pip install -U seaborn
 pip install -U pandas
 pip install -U scikit-learn
 pip install -U nltk
