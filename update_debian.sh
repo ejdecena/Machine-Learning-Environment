@@ -7,5 +7,5 @@ apt install python3-pip
 apt install python3-virtualenv virtualenv
 #
 # To create a virtual environment:
-# For Python3: virtualenv folder_name --python=python3
-# For Python2: virtualenv folder_name --python=python2
+# For Python3: virtualenv --no-site-packages folder_name --python=python3
+# For Python2: virtualenv --no-site-packages folder_name --python=python2
