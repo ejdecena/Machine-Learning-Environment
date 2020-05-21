@@ -1,6 +1,6 @@
-# Machine Learning Update.
+# Machine Learning Environment.
 
-*Machine Learning Update* installs everything needed for a Machine Learning platform on Linux/Debian.
+*Machine Learning Environment* installs everything needed for a Machine Learning platform on Linux/Debian.
 
 
 ## Developer.
@@ -14,4 +14,4 @@
 
 ## Contributions.
 
-Any doubt or problem about the algorithm should be reported by opening an [**issue**](https://github.com/ejdecena/machine_learning_update/issues).
+Any doubt or problem about the algorithm should be reported by opening an [**issue**](https://github.com/ejdecena/Machine-Learning-Environment/issues).
