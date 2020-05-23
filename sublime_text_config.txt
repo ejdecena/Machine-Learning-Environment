@@ -1,0 +1,32 @@
+Plugins:
+Alignment
+BracketHighlighter
+ColorPicker
+Emmet
+jedi - Python autocompletion
+jedi Syntax
+SideBarEnhancements
+SublimeCodeIntel
+Theme - Flatland
+Theme - Soda
+
+Config Editor:
+{
+	"color_scheme": "Packages/User/Flatland Dark (Flake8Lint).tmTheme",
+	"font_size": 13,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80
+	],
+	"save_on_focus_lost": true,
+	"theme": "Flatland Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true,
+	"wrap_width": 80
+}
