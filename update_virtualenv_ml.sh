@@ -9,6 +9,9 @@ pip install -U nltk
 pip install -U tensorflow
 pip install -U keras
 pip install -U statsmodels
+# pip install -U jupyter
+# pip install -U gensim
+# pip install -U textblob
 ### TPOT Requirements -----------------
 pip install -U deap
 pip install -U update_checker
@@ -22,4 +25,8 @@ pip install -U skrebate
 pip install -U tpot
 ### Some Tools Requirements -----------
 pip install -U requests
-pip install -U tweepy
+# pip install -U selenium
+# pip install -U beautifulsoup4
+# pip install -U tweepy
+# pip install -U beautifulsoup4
+# pip install -U Flask
