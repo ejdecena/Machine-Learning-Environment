@@ -40,7 +40,7 @@ filetype indent plugin on
 hi Cursor cterm=NONE ctermbg=white ctermfg=black
 hi Search cterm=NONE ctermbg=LightYellow ctermfg=Red
 hi Visual cterm=NONE ctermbg=LightYellow ctermfg=black
-hi CursorLine cterm=NONE ctermbg=gray
+hi CursorLine cterm=NONE ctermbg=gray ctermfg=black
 hi ColorColumn cterm=NONE ctermbg=darkgray
 hi LineNr cterm=NONE ctermbg=NONE ctermfg=DarkGrey term=bold 
 hi CursorLineNr cterm=NONE ctermfg=yellow
@@ -53,5 +53,5 @@ inoremap ( ()<left>
 inoremap { {}<left>
 inoremap [ []<left>
 inoremap <C-g> <Esc>:update<Enter>gi
-vnoremap <C-c> :norm i# <Enter>   " Comenta un bloque seleccionado en Visual. 
-vnoremap <C-u> :norm xx <Enter>   " Descomenta un bloque seleccinado en Visual.
+vnoremap <C-c> :norm i# <Enter> " Comenta un bloque seleccionado en Visual. 
+vnoremap <C-u> :norm xx <Enter> " Descomenta un bloque seleccionado en Visual.
